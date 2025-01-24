@@ -1,0 +1,3 @@
+customer name : Sreejitha
+age: 21
+college: kiot
