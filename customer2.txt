@@ -1,0 +1,3 @@
+name: Jayalakshmi
+age: 24
+place: kochi
