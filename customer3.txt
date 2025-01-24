@@ -1,0 +1,3 @@
+customer name: sumithra
+age:42
+place: salem
